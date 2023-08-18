@@ -1,0 +1,187 @@
+body{
+    background-color: black;
+    overflow-x: hidden;
+   
+}
+#h1{
+    position: absolute;
+    color:beige;
+    font-size: 25px;
+    margin-left: 132px;
+    margin-top: 40px;
+}
+#navbar{
+    margin-top: 0;
+    position: fixed;
+    z-index: 1;
+}
+a{
+    position: relative;
+    left: 1000px;
+    color: gray;
+    margin-left:18px;
+    top: 20px;
+    font-size: 24px;
+    text-decoration: none;
+    cursor: pointer;
+}
+#logo{
+    margin-top: 120px;
+    height: 430px;
+    margin-left: 60px;
+    width: 480px;
+}
+#fp{
+    position: absolute;
+    top: 170px;
+    left: 710px;
+    font-size: 30px;
+    color: grey;
+}
+#p1{
+    position: absolute;
+    top:190px;
+    left:703px;
+    color: white;
+    font-size: 49px;
+}
+#p2{
+    position: absolute;
+    top:280px;
+    left:703px;
+    color:grey;
+    font-size: 29px;
+}
+#p3{
+    position: absolute;
+    top:340px;
+    left:703px;
+    color:grey;
+    font-size: 22px; 
+}
+#pl{
+    position: absolute;
+    top:450px;
+    left: 680px;
+    
+}
+#biography{
+    position: absolute;
+    top: 600px;
+    
+}
+#ab{
+    position: relative;
+    left: 500px;
+    font-size: 40px;
+    color:goldenrod;
+}
+#bg{
+    position: relative;
+    top: 0px;
+    color: antiquewhite;
+    left: 0px;
+
+}
+#bgi{
+    margin-top:30px;
+    margin-left: 30px;
+    height: 300px;
+}
+#bgp{
+    position:absolute;
+    top: 150px;
+    color: gray;
+    left:300px;
+    font-size: 24px;
+    word-spacing: 1.0px;
+    line-height: 38.3px;
+}
+#bgp1{
+    position:absolute;
+    top: 470px;
+    color: gray;
+    left:30px;
+    font-size: 24px;
+    word-spacing: 0.6px;
+    line-height: 29.3px;
+    
+}
+#bgm{
+    position:absolute;
+    top: 850px;
+    left:990px;
+    height: 330px;
+    margin-bottom: 20px;
+    width: 300px;
+}
+#bgp2{
+    position:absolute;
+    top: 740px;
+    color: gray;
+    left:30px;
+    font-size: 24px;
+    word-spacing: 0.6px;
+    line-height: 29.3px;
+    
+}
+#aw{
+    position:absolute;
+    top: 1000px;
+    color:white;
+    font-size: 24px; 
+    left:40px;
+}
+#bgp3{
+    position:absolute;
+    top: 1030px;
+    color: gray;
+    left:30px;
+    font-size: 24px;
+    
+}
+#quotes{
+    position: absolute;
+    top: 1820px;
+    height: 500px;
+    color: aliceblue;
+}
+#bg1{
+    position: relative;
+    top:1260px;
+    color: antiquewhite;
+    left: 0px;
+
+}
+li{
+    font-size: 23px;
+    font-style: italic;
+    word-spacing: 5.4px;
+    line-height: 50.5px;
+}
+#ae{
+  
+    margin-left: 1000px;
+    font-size: 29px;
+    margin-top: 0px;
+}
+#cpy{
+    position: relative;
+    top:1850px;
+    color:deeppink;
+    left: 590px;
+    font-size: 28px;
+    text-decoration: underline;
+    height:200px;
+    margin-bottom: 100px;
+}
+
+#cp{
+    position: absolute;
+    top: 2390px;
+    color: aliceblue;
+    left: 450px;
+    margin-bottom: 40px;
+
+   
+}
